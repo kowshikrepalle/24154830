@@ -52,8 +52,8 @@ Contains 28x28 grayscale images across 10 clothing categories.
 
 ## Repository Contents
 
-* notebook.ipynb
-* cnn_texture_vs_shape_report.pdf
+* Cnn Code_24154830.ipynb
+* Cnn report_24154830.pdf
 * README.md
 * LICENSE
 * requirements.txt
